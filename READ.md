@@ -1,5 +1,6 @@
 # Profile
-This shows up first 
+![Github stats](https://github-readme-stats.vercel.app/api?username=Pavan164-ml)
+
 <h1 align="center">Hi 👋, I'm Pavan Kumar</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
 
