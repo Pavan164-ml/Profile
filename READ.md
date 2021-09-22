@@ -1,5 +1,4 @@
 # Profile
-![Github stats](https://github-readme-stats.vercel.app/api?username=Pavan164-ml)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?Pavan164-ml=YourUsername&repo=Profile)
 
 <h1 align="center">Hi 👋, I'm Pavan Kumar</h1>
