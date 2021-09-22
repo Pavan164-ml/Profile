@@ -1,7 +1,6 @@
 # Profile
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Pavan164-ml)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?Pavan164-ml=YourUsername&repo=Profile)
-![counter](https://[YourEndpoint].m.pipedream.net)
 
 <h1 align="center">Hi 👋, I'm Pavan Kumar</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
